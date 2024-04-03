@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T02:18:36.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="QQ5TnRr9Qgn3utAq8UIl" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T02:21:02.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="StWpFbE07M6j-BQ7-IRr" version="24.2.1" type="github">
   <diagram name="Página-1" id="BtJeQaXyt6evfpCqpvQr">
-    <mxGraphModel dx="1552" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,8 +131,20 @@
         <mxCell id="FOTGkEohO6ZnvijZTCvm-59" value="Verificar os campos que não foram preenchidos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FOTGkEohO6ZnvijZTCvm-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOTGkEohO6ZnvijZTCvm-67" target="FOTGkEohO6ZnvijZTCvm-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FOTGkEohO6ZnvijZTCvm-67" value="Mandar um aviso de que o membro está no projeto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="287.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FOTGkEohO6ZnvijZTCvm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOTGkEohO6ZnvijZTCvm-72" target="FOTGkEohO6ZnvijZTCvm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOTGkEohO6ZnvijZTCvm-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="75" y="95" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FOTGkEohO6ZnvijZTCvm-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
