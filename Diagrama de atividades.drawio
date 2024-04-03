@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T22:27:06.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="WD92Dth4zZe9iQ9zkhBp" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T23:18:15.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="Y0uWXdE2maxHph3yCDna" version="24.2.2" type="github">
   <diagram name="Página-1" id="BtJeQaXyt6evfpCqpvQr">
-    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FOTGkEohO6ZnvijZTCvm-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="397" width="523" height="584" as="geometry" />
-        </mxCell>
-        <mxCell id="FOTGkEohO6ZnvijZTCvm-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry width="400" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="FOTGkEohO6ZnvijZTCvm-1" value="Gestor de Projeto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="30" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FOTGkEohO6ZnvijZTCvm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FOTGkEohO6ZnvijZTCvm-3" target="FOTGkEohO6ZnvijZTCvm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -54,9 +45,6 @@
         </mxCell>
         <mxCell id="FOTGkEohO6ZnvijZTCvm-18" value="Verifica se as informações colocadas estão corretas" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FOTGkEohO6ZnvijZTCvm-20" value="Sistema" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FOTGkEohO6ZnvijZTCvm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FOTGkEohO6ZnvijZTCvm-26" target="FOTGkEohO6ZnvijZTCvm-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -148,6 +136,12 @@
         </mxCell>
         <mxCell id="FOTGkEohO6ZnvijZTCvm-76" value="CRUD Projeto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="800" y="540" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hET_K6ymy1OwZJnETLSe-5" value="Gestor de Projeto" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry width="400" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="hET_K6ymy1OwZJnETLSe-6" value="Sistema" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="400" width="530" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
